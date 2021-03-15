@@ -1,0 +1,15 @@
+/home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/ament_index/resource_index/package_run_dependencies/integration
+/home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/ament_index/resource_index/parent_prefix_path/integration
+/home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/integration/environment/ament_prefix_path.sh
+/home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/integration/environment/ament_prefix_path.dsv
+/home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/integration/environment/path.sh
+/home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/integration/environment/path.dsv
+/home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/integration/local_setup.bash
+/home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/integration/local_setup.sh
+/home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/integration/local_setup.zsh
+/home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/integration/local_setup.dsv
+/home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/integration/package.dsv
+/home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/ament_index/resource_index/packages/integration
+/home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/integration/cmake/integrationConfig.cmake
+/home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/integration/cmake/integrationConfig-version.cmake
+/home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/integration/package.xml

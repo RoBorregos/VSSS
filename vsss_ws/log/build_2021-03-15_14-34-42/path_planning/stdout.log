@@ -1,0 +1,17 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/path_planning/share/ament_index/resource_index/package_run_dependencies/path_planning
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/path_planning/share/ament_index/resource_index/parent_prefix_path/path_planning
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/path_planning/share/path_planning/environment/ament_prefix_path.sh
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/path_planning/share/path_planning/environment/ament_prefix_path.dsv
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/path_planning/share/path_planning/environment/path.sh
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/path_planning/share/path_planning/environment/path.dsv
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/path_planning/share/path_planning/local_setup.bash
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/path_planning/share/path_planning/local_setup.sh
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/path_planning/share/path_planning/local_setup.zsh
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/path_planning/share/path_planning/local_setup.dsv
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/path_planning/share/path_planning/package.dsv
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/path_planning/share/ament_index/resource_index/packages/path_planning
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/path_planning/share/path_planning/cmake/path_planningConfig.cmake
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/path_planning/share/path_planning/cmake/path_planningConfig-version.cmake
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/path_planning/share/path_planning/package.xml

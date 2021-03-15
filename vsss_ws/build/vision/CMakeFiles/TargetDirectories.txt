@@ -1,0 +1,9 @@
+/home/roborregos/Desktop/VSSS/vsss_ws/build/vision/CMakeFiles/install/strip.dir
+/home/roborregos/Desktop/VSSS/vsss_ws/build/vision/CMakeFiles/install/local.dir
+/home/roborregos/Desktop/VSSS/vsss_ws/build/vision/CMakeFiles/install.dir
+/home/roborregos/Desktop/VSSS/vsss_ws/build/vision/CMakeFiles/list_install_components.dir
+/home/roborregos/Desktop/VSSS/vsss_ws/build/vision/CMakeFiles/rebuild_cache.dir
+/home/roborregos/Desktop/VSSS/vsss_ws/build/vision/CMakeFiles/edit_cache.dir
+/home/roborregos/Desktop/VSSS/vsss_ws/build/vision/CMakeFiles/test.dir
+/home/roborregos/Desktop/VSSS/vsss_ws/build/vision/CMakeFiles/vision_uninstall.dir
+/home/roborregos/Desktop/VSSS/vsss_ws/build/vision/CMakeFiles/uninstall.dir

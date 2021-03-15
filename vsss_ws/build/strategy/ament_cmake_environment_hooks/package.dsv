@@ -1,0 +1,4 @@
+source;share/strategy/local_setup.bash
+source;share/strategy/local_setup.dsv
+source;share/strategy/local_setup.sh
+source;share/strategy/local_setup.zsh

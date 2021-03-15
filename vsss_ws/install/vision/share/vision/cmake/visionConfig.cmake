@@ -1,0 +1,1 @@
+/home/roborregos/Desktop/VSSS/vsss_ws/build/vision/ament_cmake_core/visionConfig.cmake

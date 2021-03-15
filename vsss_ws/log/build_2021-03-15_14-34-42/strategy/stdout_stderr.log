@@ -1,0 +1,17 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/ament_index/resource_index/package_run_dependencies/strategy
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/ament_index/resource_index/parent_prefix_path/strategy
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/strategy/environment/ament_prefix_path.sh
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/strategy/environment/ament_prefix_path.dsv
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/strategy/environment/path.sh
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/strategy/environment/path.dsv
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/strategy/local_setup.bash
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/strategy/local_setup.sh
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/strategy/local_setup.zsh
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/strategy/local_setup.dsv
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/strategy/package.dsv
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/ament_index/resource_index/packages/strategy
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/strategy/cmake/strategyConfig.cmake
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/strategy/cmake/strategyConfig-version.cmake
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/strategy/package.xml

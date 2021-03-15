@@ -1,0 +1,4 @@
+[console_scripts]
+listener = vision.subscriber:main
+talker = vision.publisher:main
+

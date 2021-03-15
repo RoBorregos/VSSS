@@ -1,0 +1,15 @@
+/home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/ament_index/resource_index/package_run_dependencies/strategy
+/home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/ament_index/resource_index/parent_prefix_path/strategy
+/home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/strategy/environment/ament_prefix_path.sh
+/home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/strategy/environment/ament_prefix_path.dsv
+/home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/strategy/environment/path.sh
+/home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/strategy/environment/path.dsv
+/home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/strategy/local_setup.bash
+/home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/strategy/local_setup.sh
+/home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/strategy/local_setup.zsh
+/home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/strategy/local_setup.dsv
+/home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/strategy/package.dsv
+/home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/ament_index/resource_index/packages/strategy
+/home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/strategy/cmake/strategyConfig.cmake
+/home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/strategy/cmake/strategyConfig-version.cmake
+/home/roborregos/Desktop/VSSS/vsss_ws/install/strategy/share/strategy/package.xml

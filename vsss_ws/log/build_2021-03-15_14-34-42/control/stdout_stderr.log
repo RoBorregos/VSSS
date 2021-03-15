@@ -1,0 +1,17 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/control/share/ament_index/resource_index/package_run_dependencies/control
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/control/share/ament_index/resource_index/parent_prefix_path/control
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/control/share/control/environment/ament_prefix_path.sh
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/control/share/control/environment/ament_prefix_path.dsv
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/control/share/control/environment/path.sh
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/control/share/control/environment/path.dsv
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/control/share/control/local_setup.bash
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/control/share/control/local_setup.sh
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/control/share/control/local_setup.zsh
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/control/share/control/local_setup.dsv
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/control/share/control/package.dsv
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/control/share/ament_index/resource_index/packages/control
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/control/share/control/cmake/controlConfig.cmake
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/control/share/control/cmake/controlConfig-version.cmake
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/control/share/control/package.xml

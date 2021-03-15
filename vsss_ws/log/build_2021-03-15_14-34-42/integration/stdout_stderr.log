@@ -1,0 +1,17 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/ament_index/resource_index/package_run_dependencies/integration
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/ament_index/resource_index/parent_prefix_path/integration
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/integration/environment/ament_prefix_path.sh
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/integration/environment/ament_prefix_path.dsv
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/integration/environment/path.sh
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/integration/environment/path.dsv
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/integration/local_setup.bash
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/integration/local_setup.sh
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/integration/local_setup.zsh
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/integration/local_setup.dsv
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/integration/package.dsv
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/ament_index/resource_index/packages/integration
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/integration/cmake/integrationConfig.cmake
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/integration/cmake/integrationConfig-version.cmake
+-- Symlinking: /home/roborregos/Desktop/VSSS/vsss_ws/install/integration/share/integration/package.xml

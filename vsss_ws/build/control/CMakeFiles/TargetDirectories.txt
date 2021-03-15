@@ -1,0 +1,9 @@
+/home/roborregos/Desktop/VSSS/vsss_ws/build/control/CMakeFiles/install/strip.dir
+/home/roborregos/Desktop/VSSS/vsss_ws/build/control/CMakeFiles/install/local.dir
+/home/roborregos/Desktop/VSSS/vsss_ws/build/control/CMakeFiles/install.dir
+/home/roborregos/Desktop/VSSS/vsss_ws/build/control/CMakeFiles/list_install_components.dir
+/home/roborregos/Desktop/VSSS/vsss_ws/build/control/CMakeFiles/rebuild_cache.dir
+/home/roborregos/Desktop/VSSS/vsss_ws/build/control/CMakeFiles/edit_cache.dir
+/home/roborregos/Desktop/VSSS/vsss_ws/build/control/CMakeFiles/test.dir
+/home/roborregos/Desktop/VSSS/vsss_ws/build/control/CMakeFiles/control_uninstall.dir
+/home/roborregos/Desktop/VSSS/vsss_ws/build/control/CMakeFiles/uninstall.dir

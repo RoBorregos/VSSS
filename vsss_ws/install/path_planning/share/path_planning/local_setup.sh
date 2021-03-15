@@ -1,0 +1,1 @@
+/home/roborregos/Desktop/VSSS/vsss_ws/build/path_planning/ament_cmake_environment_hooks/local_setup.sh

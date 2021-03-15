@@ -1,0 +1,7 @@
+[submodule "vsss_ws/src/vision/vision_opencv"]
+	path = vsss_ws/src/vision/vision_opencv
+	url = https://github.com/ros-perception/vision_opencv.git
+	branch = ros2
+[submodule "src/vision"]
+	path = src/vision
+	url = https://github.com/ros-perception/vision_opencv.git
