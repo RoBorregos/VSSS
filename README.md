@@ -28,7 +28,7 @@ For more information about project management and standards you can check our [w
 Before setting up the project, you should have installed the following development tools:
 
 - [ROS2 FOxy Fitzroy](https://docs.ros.org/en/foxy/Installation.html)
-- [OpenCV2](https://docs.opencv.org/master/d9/df8/tutorial_root.html)https://docs.opencv.org/master/d9/df8/tutorial_root.html
+- [OpenCV2](https://docs.opencv.org/master/d9/df8/tutorial_root.html)https://docs.opencv.org/master/d9/df8/tutorial_root.html)
 - [Arduino](https://www.arduino.cc/en/software)
 
 Once you have installed the required third-party software, you can follow this steps:
