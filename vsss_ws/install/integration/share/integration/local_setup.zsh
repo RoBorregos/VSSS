@@ -1,1 +1,0 @@
-/home/roborregos/Desktop/VSSS/vsss_ws/build/integration/ament_cmake_environment_hooks/local_setup.zsh

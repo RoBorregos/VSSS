@@ -1,9 +1,0 @@
-/home/roborregos/Desktop/VSSS/vsss_ws/build/path_planning/CMakeFiles/install/strip.dir
-/home/roborregos/Desktop/VSSS/vsss_ws/build/path_planning/CMakeFiles/install/local.dir
-/home/roborregos/Desktop/VSSS/vsss_ws/build/path_planning/CMakeFiles/edit_cache.dir
-/home/roborregos/Desktop/VSSS/vsss_ws/build/path_planning/CMakeFiles/test.dir
-/home/roborregos/Desktop/VSSS/vsss_ws/build/path_planning/CMakeFiles/install.dir
-/home/roborregos/Desktop/VSSS/vsss_ws/build/path_planning/CMakeFiles/list_install_components.dir
-/home/roborregos/Desktop/VSSS/vsss_ws/build/path_planning/CMakeFiles/rebuild_cache.dir
-/home/roborregos/Desktop/VSSS/vsss_ws/build/path_planning/CMakeFiles/path_planning_uninstall.dir
-/home/roborregos/Desktop/VSSS/vsss_ws/build/path_planning/CMakeFiles/uninstall.dir

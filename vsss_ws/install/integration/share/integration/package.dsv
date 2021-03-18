@@ -1,8 +1,0 @@
-source;share/integration/hook/cmake_prefix_path.ps1
-source;share/integration/hook/cmake_prefix_path.dsv
-source;share/integration/hook/cmake_prefix_path.sh
-source;share/integration/local_setup.bash
-source;share/integration/local_setup.dsv
-source;share/integration/local_setup.ps1
-source;share/integration/local_setup.sh
-source;share/integration/local_setup.zsh

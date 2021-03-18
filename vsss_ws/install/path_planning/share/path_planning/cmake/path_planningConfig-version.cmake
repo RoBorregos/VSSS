@@ -1,1 +1,0 @@
-/home/roborregos/Desktop/VSSS/vsss_ws/build/path_planning/ament_cmake_core/path_planningConfig-version.cmake
