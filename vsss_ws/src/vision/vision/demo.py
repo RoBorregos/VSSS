@@ -1,10 +1,13 @@
-import cv_bridge
+from __future__ import print_function
+from cv_bridge import CvBridge, CvBridgeError
 import rclpy
 from rclpy.node import Node
 
 from std_msgs.msg import String
 import numpy as np
 
+import cv2
+from sensor_msgs.msg import Image
 
 def test_cvtColorForDisplay():
     # convert label image to display
@@ -36,35 +39,47 @@ def test_cvtColorForDisplay():
     output = bridge.imgmsg_to_cv2(input_msg, desired_encoding='mono8')
     assert output.shape == (100, 100)
 
+class ImageConverter(Node):
 
-class MinimalSubscriber(Node):
+  def __init__(self):
+    super().__init__('demo')
+    self.image_sub = self.create_subscription(Image, 'image_raw', self.callback, 10)
+    self.image_pub = self.create_publisher(Image, 'image_topic_2', 10)
+    self.bridge = CvBridge()
 
-    def __init__(self):
-        super().__init__('minimal_subscriber')
-        self.subscription = self.create_subscription(
-            String,
-            'topic',
-            self.listener_callback,
-            10)
-        self.subscription  # prevent unused variable warning
+  def callback(self,data):
+    try:
+      cv_image = self.bridge.imgmsg_to_cv2(data, "bgr8")
+    except CvBridgeError as e:
+      print(e)
 
-    def listener_callback(self, msg):
-        self.get_logger().info('I heard: "%s"' % msg.data)
+    (rows,cols,channels) = cv_image.shape
+    if cols > 60 and rows > 60 :
+      # print("drawing circle")
+      cv2.circle(cv_image, (50,50), 50, (255, 0, 0), 6)
+
+    cv2.imshow("Image window", cv_image)
+    cv2.waitKey(3)
+
+    try:
+      self.image_pub.publish(self.bridge.cv2_to_imgmsg(cv_image, "bgr8"))
+    except CvBridgeError as e:
+      print(e)
 
 
 def main(args=None):
     rclpy.init(args=args)
-
-    minimal_subscriber = MinimalSubscriber()
-
-    rclpy.spin(minimal_subscriber)
-
+    ic = ImageConverter()
+    try:
+      rclpy.spin(ic)
+    except KeyboardInterrupt:
+        print("Shutting down")
+    cv2.destroyAllWindows()
     # Destroy the node explicitly
     # (optional - otherwise it will be done automatically
     # when the garbage collector destroys the node object)
-    minimal_subscriber.destroy_node()
+    ic.destroy_node()
     rclpy.shutdown()
 
-
 if __name__ == '__main__':
-    main()
+    main(sys.argv)

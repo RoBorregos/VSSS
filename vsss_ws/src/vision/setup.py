@@ -22,6 +22,7 @@ setup(
         'console_scripts': [
                 'talker = vision.publisher:main',
                 'listener = vision.subscriber:main',
+                'demo = vision.demo:main',
         ],
 },
 )

@@ -1,0 +1,12 @@
+#Install deps (foxy)
+rosdep install --from-paths src --ignore-src --rosdistro foxy -y --skip-keys "console_bridge fastcdr fastrtps libopensplice67 libopensplice69 rti-connext-dds-5.3.1 urdfdom_headers"
+
+# Build
+colcon build --symlink-install
+
+# Source
+source install/setup.bash
+
+#ROS Topics
+# https://docs.ros.org/en/foxy/Tutorials/Topics/Understanding-ROS2-Topics.html#ros2-topic-list
+ros2 topic list

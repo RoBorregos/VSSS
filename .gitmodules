@@ -1,5 +1,10 @@
-[submodule "vsss_ws/src/vision/opencv_ros"]
-	path = vsss_ws/src/vision/opencv_ros
-	branch = ros2
-	url = https://github.com/ros-perception/vision_opencv.git
 
+[submodule "vsss_ws/src/vision_tools/image_pipeline"]
+	path = vsss_ws/src/vision_tools/image_pipeline
+	url = https://github.com/ros-perception/image_pipeline.git
+[submodule "vsss_ws/src/vision_tools/vision_opencv"]
+	path = vsss_ws/src/vision_tools/vision_opencv
+	url = https://github.com/ros-perception/vision_opencv.git
+[submodule "vsss_ws/src/vision_tools/image_common"]
+	path = vsss_ws/src/vision_tools/image_common
+	url = https://github.com/ros-perception/image_common.git
