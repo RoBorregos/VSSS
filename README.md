@@ -68,13 +68,13 @@ $ ros2 run path_planning path_planning_main
 ```
 
 ### Computer vision
-To get information from camera use the image_publisher package with the video port (file) as parameter:
+To get information from camera use the [image_pipeline](http://wiki.ros.org/image_pipeline) package with the video port (file) as parameter:
 
 ```bash
 $ ros2 run image_publisher image_publisher_node /dev/video0
 ```
 
-To run vision demo:
+To run vision demo, where the camera ROS image is converted to a cv2 image using [cv_bridge](https://github.com/ros-perception/vision_opencv/tree/ros2/cv_bridge):
 
 ```bash
 $ ros2 run vision demo 
