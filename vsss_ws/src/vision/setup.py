@@ -23,6 +23,7 @@ setup(
                 'talker = vision.publisher:main',
                 'listener = vision.subscriber:main',
                 'demo = vision.demo:main',
+                'vision_node = vision.vision:main'
         ],
 },
 )
