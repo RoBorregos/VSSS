@@ -1,3 +1,3 @@
-geometry_msgs/Pose robot_position
-geometry_msgs/Twist ball_orientation
+geometry_msgs/Pose[] robot_positions
+geometry_msgs/Twist[] robot_speeds
 geometry_msgs/Point ball_position

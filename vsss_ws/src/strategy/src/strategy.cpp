@@ -13,7 +13,9 @@ class Strategy : public rclcpp::Node {
         }
     private:
         void callbackStrategyListening(const vsss_interfaces::msg::VisionTopic::SharedPtr msg) {
-            RCLCPP_INFO(this->get_logger(), "%f %f %f", msg->robot_position.position.x, msg->robot_position.position.y, msg->robot_position.position.z);
+            for (auto robot : msg->robot_positions) {
+                RCLCPP_INFO(this->get_logger(), "Receiving robot position and speed");
+            } RCLCPP_INFO(this->get_logger(), "Ball position received");
         }
         rclcpp::Subscription<vsss_interfaces::msg::VisionTopic>::SharedPtr suscriber_;
 };

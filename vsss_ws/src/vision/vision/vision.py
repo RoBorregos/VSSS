@@ -12,11 +12,11 @@ class Vision(Node):
 
     def timer_callback(self):
         msg = VisionTopic()
-        msg.robot_position = Pose()
+        [msg.robot_positions.append(Pose()) for _ in range(6)]
+        [msg.robot_speeds.append(Twist()) for _ in range(6)]
         msg.ball_position = Point()
-        msg.ball_orientation = Twist()
         self.publisher_.publish(msg)
-        self.get_logger().info("Publishing robot pos: {}, ball pos: {} and ball orien: {}".format(msg.robot_position, msg.ball_position, msg.ball_orientation))
+        self.get_logger().info("Publishing robots positions, speeds and ball position.")
 
 
 def main(args=None):
