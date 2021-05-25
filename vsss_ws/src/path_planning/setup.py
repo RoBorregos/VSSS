@@ -20,7 +20,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'path_planning_main = path_planning.path_planning_main:main'
+            'path_planning_main = path_planning.path_planning_main:main',
+            'path_planning_node = path_planning.path_planning:main'
         ],
     },
 )
