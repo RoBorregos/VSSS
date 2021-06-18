@@ -96,5 +96,6 @@ Use `Ctrl + C` to exit the logs and turn all nodes and application down.
 | ----------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------ | --------- |
 | Miguel Elizondo | [pev@live.com.mx](mailto:pev@live.com.mx) | [@Miguelelizondov](https://github.com/Miguelelizondov) | PM & Strategy |
 | Keven Arroyo | [dake.3601@gmail.com](mailto:dake.3601@gmail.com) | [@dake3601](https://github.com/dake3601) | Path finding |
+| Jamir Leal | [jamirleal200@gmail.com](mailto:jamirleal200@gmail.com) | [@JamirLeal](https://github.com/JamirLeal) | Integration |
 | Aurora Tijerina | [auro.tj@gmail.com](mailto:auro.tj@gmail.com)                       | [@AuroTB](https://github.com/aurotb)                         | Integration mentor |
 
